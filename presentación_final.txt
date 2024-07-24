@@ -1,0 +1,23 @@
+1. Síntesis de la presentación inicial, teniendo en cuenta las observaciones o correcciones
+realizadas.
+
+2. Explicación del problema definido, caracterización, justificación e impacto (puede ser a
+través de indicadores de servicio al cliente, costos, utilización de recursos, bienestar del
+personal, tiempos de entregas, tiempos de trayectos, averías de producto, etc.),
+situación actual del sistema.
+
+3. Formulación del problema: supuestos, tipo de técnica matemática de programación
+seleccionada para formular el problema, conjuntos de subíndices, variables de decisión,
+parámetros, funciones objetivo, restricciones del modelo y complejidad del modelo.
+
+4. Solución del problema: métodos o algoritmos de solución, características de software y
+hardware, limitaciones, tiempo de solución, corridas por escenarios.
+
+5. Resultados obtenidos: interpretación de valores obtenidos para los objetivos,
+configuraciones de las variables, análisis de sensibilidad sobre los parámetros,
+alternativas sugeridas por el grupo y análisis.
+
+6. Propuesta de solución de acuerdo al análisis realizado sobre los resultados obtenidos.
+
+7. Conclusiones del trabajo realizado: dificultades de formulación, programación, uso de
+las técnicas o algoritmos, recomendaciones sobre el problema y experiencia del grupo.
